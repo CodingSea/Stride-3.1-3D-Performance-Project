@@ -1,0 +1,11 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test04.Windows", "Test04.Windows\Test04.Windows.csproj", "{12749BBB-E363-44C5-A27C-E31BBCCE49E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test04", "Test04\Test04.csproj", "{9AC6A175-C217-42AE-8F35-26BA166A000B}"
+EndProject
+Global
+EndGlobal
